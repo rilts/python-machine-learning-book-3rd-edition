@@ -30,7 +30,7 @@ Kindle ASIN: B07VBLX2W7
 
 
 
-## Table of Contents and Code Notebooks
+## 내용 및 Code Notebooks
 
 **Helpful installation and setup instructions can be found in the [README.md file of Chapter 1](ch01/README.md)**
 
